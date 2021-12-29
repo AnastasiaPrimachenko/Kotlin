@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android lab6/VoiceAssistant/Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Android lab6/VoiceAssistant/Android/app/src/main/res/drawable/assistant_bubble.xml" value="0.2203125" />
+        <entry key="..\:/Android lab6/VoiceAssistant/Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Android lab6/VoiceAssistant/Android/app/src/main/res/drawable/user_bubble.xml" value="0.2203125" />
+        <entry key="..\:/Android lab6/VoiceAssistant/Android/app/src/main/res/layout/activity_main.xml" value="0.1816123188405797" />
+        <entry key="..\:/Android lab6/VoiceAssistant/Android/app/src/main/res/layout/assistant_messgae.xml" value="0.1816123188405797" />
+        <entry key="..\:/Android lab6/VoiceAssistant/Android/app/src/main/res/layout/user_message.xml" value="0.1816123188405797" />
+        <entry key="..\:/Users/User/Documents/MVS/Kotlin/VoiceAssistant/Android/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/User/Documents/MVS/Kotlin/VoiceAssistant/Android/app/src/main/res/layout/assistant_messgae.xml" value="0.1793478260869565" />
+        <entry key="..\:/Users/User/Documents/MVS/Kotlin/VoiceAssistant/Android/app/src/main/res/menu/menu_main.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
